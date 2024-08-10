@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ваня\source\repos\Rock Scissors Paper\Rock Scissors Paper\main.cpp(8,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Ваня\source\repos\Rock Scissors Paper\Rock Scissors Paper\main.cpp(28,45): error C2059: синтаксическая ошибка: break
+C:\Users\Ваня\source\repos\Rock Scissors Paper\Rock Scissors Paper\main.cpp(29,45): error C2059: синтаксическая ошибка: break
